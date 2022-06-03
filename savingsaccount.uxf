@@ -1,0 +1,13 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>300</x><y>190</y><w>210</w><h>190</h></coordinates><panel_attributes>Savings Account
+--
+-name: string
+-pin: string
+-balance=string
+--
++getBalance()
++getName()
++getPin()
++deposit()
++withdraw()
++computeInterest()
+</panel_attributes><additional_attributes></additional_attributes></element></diagram>
